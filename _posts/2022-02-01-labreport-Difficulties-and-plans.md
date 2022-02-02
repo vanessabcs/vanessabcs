@@ -9,7 +9,7 @@ comments: true
 ---
 **Why should a humanist code?**
 
-Numbers, computers, programming and making up websites is rarely related to the work of a humanist. Even the field of Digital Humanities is an innovation for Global North and South (the latter even more markedly, I dare say). As Wilson wisely pointed out, "literary scholars have understood numbers as falling outside their domain", politely pointing out to the feeling of exclusion and incapacity before technology Humanities scientists nor rarely feel. This is one strong reason why we should sit facing the computer and get ready to understand what exactly is involved in writing in digital languages and what we might be able to do with/by/through them. This is a change.
+Numbers, computers, programming and making up websites is rarely related to the work of a humanist. Even the field of Digital Humanities is an innovation for Global North and South (the latter even more markedly, I dare say). As Wilson wisely pointed out, "literary scholars have understood numbers as falling outside their domain", politely pointing out to the feeling of exclusion and incapacity before technology Humanities scientists nor rarely feel. This is one strong reason why we should sit facing the computer and get ready to understand what exactly is involved in writing in digital languages and what we might be able to do with/by/through them.
 
 **Why was it quite hard for _me_?**
 
