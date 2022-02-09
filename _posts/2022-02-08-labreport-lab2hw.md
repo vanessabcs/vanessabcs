@@ -41,3 +41,7 @@ In the next pivot table, it is possible to understand that mostly accounted plac
 
 <center/>
 <body/>
+
+**Pivot table 3**
+
+The final pivot table, the one generated on the metadata field of subjects, allows one to see which topics readers of that particular archive are going to have more access to. However, at the same time we can conclude that the collection is strongly focused on works dealing with WWII, we don't have further information about whether the war is the main theme or one of the themes in the accounted books. At the same time, "lesbians" seems to be on the top ten subjects represented in the archive, but we cannot have a clear picture of what is understood as a book about lesbians or simply mentions them.
