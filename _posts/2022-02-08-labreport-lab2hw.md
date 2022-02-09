@@ -9,7 +9,7 @@ comments: true
 ---
 **A reading exercise**
 
-Woking with databases described in spreadsheets is, first of all, a reading exercise, especially at the level of decoding. For example, Post-45 Hathi’s website https://view.data.post45.org/index provides a short though clarifying description for each metadata field, so that we can come up with pivot tables to separate specific sets of data that might be transformed (or simply, read) as relevant information for different purposes. Here I played with three metadata fields to offer an example of what information can be read from them: the authors, the geographies, and the subjects.
+Woking with databases described in spreadsheets is, first of all, a reading exercise, especially at the level of decoding. For example, [Post-45 Hathi’s website](https://view.data.post45.org/index) provides a short though clarifying description for each metadata field, so that we can come up with pivot tables to separate specific sets of data that might be transformed (or simply, read) as relevant information for different purposes. Here I played with three metadata fields to offer an example of what information can be read from them: the authors, the geographies, and the subjects.
 
 <center>
 
