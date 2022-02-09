@@ -25,6 +25,13 @@ Pic 1. Example of a metadata field description
 ! [Alt text] (/Users/vanssabs/Documents/Digital Humanities/pics/pt1.png)
 
 <center/>
+
 As illustrated in the picture above, by making up a pivot table out of the names of the authors, we can clearly see the ones most widely represented (by the number of available titles, copies or editions) in the repository. In this case, we can not only read that Trollope, Dickens and James make up the top three popular authors in the archive, but also that no women reached similar representation since Jane Austen is the only woman in the top ten authors in the library.
 
 **Pivot table 2**
+
+<center>
+
+! [Alt text] (/Users/vanssabs/Documents/Digital Humanities/pics/pt2.png)
+
+<center/>
