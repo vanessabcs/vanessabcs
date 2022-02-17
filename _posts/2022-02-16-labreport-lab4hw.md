@@ -17,7 +17,7 @@ bla bla bla
 
 bla bla bla
 
-** Question 3: What is this document? And, more importantly, what have you learned about the term “mcas” in our corpus overall, and/or the utility or value of “significance” metrics like TF-IDF? Write down short answers to these questions in your notes document. **
+**Question 3: What is this document? And, more importantly, what have you learned about the term “mcas” in our corpus overall, and/or the utility or value of “significance” metrics like TF-IDF? Write down short answers to these questions in your notes document.**
 
 bla bla bla
 
