@@ -11,7 +11,7 @@ comments: true
 
 **Question 1: How does this change the word cloud, and what are these changes telling you? Write down a short answer in your notes document.**
 
-bla bla bla
+Taking off the filter for stopwords makes the word cloud completely different. That happens because such stopwords start to take over basically all word occurrences, since they are usually the most common words in English language, being also the most frequent words in *any* text. Therefore, looking at a word cloud like this wouldn't give us much distinctive information, unless the focus of our research are exactly words like prepositions, articles and other terms considered "non-content".
 
 **Question 2: Why is relative frequency sometimes a more useful or accurate measure of a term’s importance than raw frequency? Write down a short answer in your notes document.**
 
