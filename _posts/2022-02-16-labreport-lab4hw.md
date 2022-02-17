@@ -9,11 +9,11 @@ comments: true
 ---
 ## The Voyant Exercise
 
-** Question 1: How does this change the word cloud, and what are these changes telling you? Write down a short answer in your notes document.**
+**Question 1: How does this change the word cloud, and what are these changes telling you? Write down a short answer in your notes document.**
 
 bla bla bla
 
-** Question 2: Why is relative frequency sometimes a more useful or accurate measure of a term’s importance than raw frequency? Write down a short answer in your notes document. **
+**Question 2: Why is relative frequency sometimes a more useful or accurate measure of a term’s importance than raw frequency? Write down a short answer in your notes document.**
 
 bla bla bla
 
@@ -21,11 +21,11 @@ bla bla bla
 
 bla bla bla
 
-** Question 4: Looking through this list of terms and their “Comparison” values, what observations can you make about terms that are more likely to occur in the humanities corpus vs. terms that are more likely to occur in the science corpus? How are these terms different? Write down short answers to these questions in your notes document. **
+**Question 4: Looking through this list of terms and their “Comparison” values, what observations can you make about terms that are more likely to occur in the humanities corpus vs. terms that are more likely to occur in the science corpus? How are these terms different? Write down short answers to these questions in your notes document.**
 
 bla bla bla
 
-** Question 5: What tool(s) did you explore? What did this tool(s) help you to observe about this data and/or what did you learn about this data using this tool(s)? Alternatively, what did you hope to learn about this data using this tool and how (or why) did reality seem to fall short of that expectation? Write down short answers to these questions in your notes document. **
+**Question 5: What tool(s) did you explore? What did this tool(s) help you to observe about this data and/or what did you learn about this data using this tool(s)? Alternatively, what did you hope to learn about this data using this tool and how (or why) did reality seem to fall short of that expectation? Write down short answers to these questions in your notes document.**
 
 bla bla bla
 
