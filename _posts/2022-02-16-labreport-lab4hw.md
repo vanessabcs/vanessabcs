@@ -1,18 +1,32 @@
 ---
 layout: post
-title: Lab 3 Post
-subtitle: Regular expressions
+title: Lab 4 Post
+subtitle: Voyant
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-**A memorable learning experience**
+## The Voyant Exercise
 
-While hearing instructions for this task, I was following everything pretty much ok. Now that I am supposed to work with RegEx101 *substitution* feature, I feel like going back to scratch, although I can also sense that probably it is just a very small piece of logical thinking that I am missing.
+** Question 1: How does this change the word cloud, and what are these changes telling you? Write down a short answer in your notes document.**
 
-I understood the process of creating a regular expression, with the e-mails example. But I feel like I don't know enough about the substitution, I have not seen enough of somebody working with it to be able to reproduce it.
+bla bla bla
 
-So I think what I'm messing up is that I am trying to come up with a regular expression that describes what I want to be there, instead of creating a pattern for substitution. So after I copied and pasted the text we were supposed to "fix", I came up with the regular expression as follows, to describe the pattern I wanted it to follow: [A-Za-z],[A-Za-z], [A-Z] - but even here, there was a problem: how can I create a regular expression to define a limit number of characters?
+** Question 2: Why is relative frequency sometimes a more useful or accurate measure of a term’s importance than raw frequency? Write down a short answer in your notes document. **
 
-Well, this is certainly going to be a memorable learning experience: after so many unsuccessful attempts, I'm pretty sure I won't forget the solution so soon - as long as I get to it.
+bla bla bla
+
+** Question 3: What is this document? And, more importantly, what have you learned about the term “mcas” in our corpus overall, and/or the utility or value of “significance” metrics like TF-IDF? Write down short answers to these questions in your notes document. **
+
+bla bla bla
+
+** Question 4: Looking through this list of terms and their “Comparison” values, what observations can you make about terms that are more likely to occur in the humanities corpus vs. terms that are more likely to occur in the science corpus? How are these terms different? Write down short answers to these questions in your notes document. **
+
+bla bla bla
+
+** Question 5: What tool(s) did you explore? What did this tool(s) help you to observe about this data and/or what did you learn about this data using this tool(s)? Alternatively, what did you hope to learn about this data using this tool and how (or why) did reality seem to fall short of that expectation? Write down short answers to these questions in your notes document. **
+
+bla bla bla
+
+### Readings vs lab
