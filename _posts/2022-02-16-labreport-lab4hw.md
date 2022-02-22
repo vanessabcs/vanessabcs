@@ -31,4 +31,8 @@ I decided to explore the "phrases" tool, not only because it can be useful for E
 
 I think the tool can be really useful, especially if one is dealing with huge amounts of information. However, I often felt frustrated when trying to load the website and it just wouldn't work. I can see how this tool could be used with linguistics research, for example. But I'm curious to see how I could actually use in my future classes.
 
-### Readings vs lab
+## Lab 4 vs. Sarah Allison's text
+
+Grounded by Sarah Allison excellent text, we had an important discussion last class over the use of "other people's data", considering the implications that might have. Voyant is a tool that can work wonders with datasets somebody else made, but first of all, should we be making such use of other people's work?
+
+To answer this question, we need to keep in mind that there is no point in simply copying and pasting raw data. The bare minimum to be data is to read this data in terms of understanding what it is made of, and most importantly, understanding why it is framed the way it is. What concerns rely on its own structure and information? This is already *some* work. Beyond that, we can think of the importance of collaboration given its capacity to explore the potential datasets have when explored by another researcher, who carries other concerns and maybe has other resources available. The more we ethically assume the position of collaborating with each other's databases can also build on more transparent data manipulation. As Allison pointed out well, it is not merely about "replicating data". Before anything, we must take other people's databases as opportunities to "reconsider what it means to build on other people's work. (6)"
