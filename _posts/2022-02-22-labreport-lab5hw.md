@@ -16,4 +16,6 @@ The prospect of learning to work with Python feeds such feelings. But *actually*
 
 In order to ground and materialize these essential things for this specific part of the process, I present here my answers to the homework questions.
 
-**Question 1**:
+**Question 1 answer**: The function did not work properly because it separated the 's from the word it was connected, undoing the purpose of contraction (i.e.: make two words one). That happened because there was a command in the algorithm staying that every term on the list must be a letter, so that any non-alphabetical character will be read as a separation of words. This was stated in the function by the code "\W+".
+
+**Question 2** Well, it didn't print correctly. At first, I just went straight to the part of the questions in the notebook, without running all the previous functions above. Following the instructions below the cell, I went back and ran all the functions until the Beyoncé verse worked as in class (this one wasn't working either). Even so, running the cell right above question 2 did not work well: I got a "SyntaxError". The Professor saw that coming and helpfully provided a reason for the problem: I hadn't deteled anything. But I was afraid to, since I didn't know which string we were talking about or how should I split it. My quest finishes here for today. :/
