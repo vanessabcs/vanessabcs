@@ -27,3 +27,5 @@ I learned some important things:
 2. I didn't need to go over the whole document and run all the cells; I just needed to run the ones on the same section I'm working at to run it correctly.
 3. I was erasing the wrong content; I should have erased only the second line marked by a hashtag;
 4. *THE ACTUAL ANSWER FOR THE QUESTION*: Now I was able to run the function correctly because the only thing I did was erase the second hashtaged line and write "I just want to finish before I forget it". The algorithm had been programmed to display a list of the words that made up the sentence I wrote, and, since there was no graphic accent or punctuation (any non-alphabetical character), it ran the list of words perfectly.
+
+**Question 3**: 
