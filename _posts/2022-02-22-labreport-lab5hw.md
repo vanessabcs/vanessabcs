@@ -28,4 +28,6 @@ I learned some important things:
 3. I was erasing the wrong content; I should have erased only the second line marked by a hashtag;
 4. *THE ACTUAL ANSWER FOR THE QUESTION*: Now I was able to run the function correctly because the only thing I did was erase the second hashtaged line and write "I just want to finish before I forget it". The algorithm had been programmed to display a list of the words that made up the sentence I wrote, and, since there was no graphic accent or punctuation (any non-alphabetical character), it ran the list of words perfectly.
 
-**Question 3**: 
+**Question 3**: After running the cell, it generated a spreadsheet that organized the contents of the folder called "eebo-test", displaying in different columns the filename, the author, the title, the date (year of publication) and the numer of times the word "virtu" or "vertu" appeared in each document.
+
+**Question 4**: According to google, the character ""ˆ"" in a regular expression, marks the beginning of something. However, I still couldn't figure out what this reg is doing here. 
