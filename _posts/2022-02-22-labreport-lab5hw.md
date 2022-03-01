@@ -44,4 +44,4 @@ In other words, we should not only use algorithms according to our needs, but al
 
 **And here goes my 6684847 test on posting a picture, with an accurate portrait of myself looking at the screen when seeing it didn't work once again:**
 
-![medieval dragon enluminure with a shocked face](https://vanessabcs.github.io/assets/img/pic.png)
+![medieval dragon enluminure with a shocked face](https://vanessabcs.github.io/assets/img/pic.jpeg)
