@@ -30,4 +30,14 @@ I learned some important things:
 
 **Question 3**: After running the cell, it generated a spreadsheet that organized the contents of the folder called "eebo-test", displaying in different columns the filename, the author, the title, the date (year of publication) and the numer of times the word "virtu" or "vertu" appeared in each document.
 
-**Question 4**: According to google, the character ""ˆ"" in a regular expression, marks the beginning of something. However, I still couldn't figure out what this reg is doing here. 
+**Question 4**: According to google, the character ""ˆ"" in a regular expression, marks the beginning of something. However, I still couldn't figure out what this reg is doing here.
+
+## Readings vs Lab
+
+I think the main text from the ones assigned was Schmidt's *Do Digital Humanists Need to Understand Algorithms?*. That reading prepared ourselves for the lab since it foregrounded the actual role of programming in our field. We discussed the different expectations from computational scientists *versus* digital humanists when dealing with programming. While the former is engaged with creating, sophisticating, and simplifying algorithms, the latter will be more focused on finding suitable algorithms according to their research needs (or even creating one, if necessary), and ultimately, understanding what these codes are doing or can do in practice.
+
+Given the difference in the approach of algorithms, Schmidt proposes, for the digital humanities, the use of the term *transformations* instead, in order to emphasize the focus on producing certain results, or modifications, instead of the engineering of making and polishing the algorithms themselves. Transformations, therefore, points to a more instrumental and pragmatical use of programming. That also means, as Schmidt states in the end of his text,
+
+*It is good and useful for humanists to be able to push and prod at algorithmic black boxes when the underlying algorithms are inaccessible or overly complex. But when they are reduced to doing so, the first job of digital humanists should be to understand the goals and agendas of the transformations and systems that algorithms serve so that we can be creative users of new ideas, rather than users of tools the purposes of which we decline to know.*
+
+In other words, we should not only use algorithms according to our needs, but also be able to move the next step in case we need different transformations, even if it means creating new ones, so that we can use existent ideas creatively as well as devising new ones.
