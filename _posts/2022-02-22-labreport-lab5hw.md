@@ -41,3 +41,7 @@ Given the difference in the approach of algorithms, Schmidt proposes, for the di
 *It is good and useful for humanists to be able to push and prod at algorithmic black boxes when the underlying algorithms are inaccessible or overly complex. But when they are reduced to doing so, the first job of digital humanists should be to understand the goals and agendas of the transformations and systems that algorithms serve so that we can be creative users of new ideas, rather than users of tools the purposes of which we decline to know.*
 
 In other words, we should not only use algorithms according to our needs, but also be able to move the next step in case we need different transformations, even if it means creating new ones, so that we can use existent ideas creatively as well as devising new ones.
+
+**And here goes my 6684847 test on posting a picture, with an accurate portrait of myself looking at the screen when seeing it didn't work once again:**
+
+![medieval dragon enluminure with a shocked face](https://vanessabcs.github.io/assets/img/pic.png)
