@@ -29,6 +29,9 @@ To continually expand this agenda, however, the researchers still need support, 
 **References**
 
 D’Ignazio, C., & Klein, L. (2020). 4. “What Gets Counted Counts.” In Data Feminism. Retrieved from https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp
+
 Goodare, Julian. “The European Witch-Hunt”. Routledge, 2011.
+
 McGreevy, Nora. “Scotland Considers Pardon for Thousands of Accused 'Witches'.” Smithsonian.com, Smithsonian Institution, 6 Jan. 2022, https://www.smithsonianmag.com/smart-news/scotland-considers-pardon-for-thousands-of-accused-witches-180979316/.
+
 Prescott, Andrew & Hughes, Lorna. “Why Do We Digitize?: The Case for Slow Digitization,” Archive Journal, 2018. http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/
