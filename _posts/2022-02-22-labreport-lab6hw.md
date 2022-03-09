@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lab 5 Post
-subtitle: Python
+title: Lab 6 Post
+subtitle: Investigating an existant database
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
