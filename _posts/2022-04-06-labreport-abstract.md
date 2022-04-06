@@ -29,9 +29,11 @@ Year of first edition: the year of publication of the first edition of the book.
 * *Author’s religious affiliation:* the religious affiliation the author claims to have in the book or, the religious group the author might be attributed in biographical sources (such as the Oxford Dictionary of National Biography), or yet the religious affiliation that can be traced from the evidence provided in the text.
 * *Online manuscript:* link for the manuscript version of the first edition (or other editions available) online.
 
+
 ### Audience for dataset
 
 The dataset is primarily aimed at Early Modern Historians and English Literature researchers who focus on popular politics, discourses of witchcraft, skepticism to magic in the 16th and 17th centuries.
+
 
 ### Questions for the dataset
 
