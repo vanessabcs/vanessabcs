@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstract For Final Project
+title: Abstract for Final Project
 subtitle: Introduction to "Skepticism to magic and witchcraft in print from the 16th to the 17th century"
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -13,6 +13,7 @@ The creation of platforms such as EEBO (Early English Books Online) and ESTC (En
 
 
 #### Metadata fields and description
+
 
 
 * *Short title:* a shortened version of the full title of the book, to avoid referring to very long titles as the ones that were common in Early Modern print.
@@ -32,9 +33,11 @@ Year of first edition: the year of publication of the first edition of the book.
 
 
 
+
 #### Audience for dataset
 
 The dataset is primarily aimed at Early Modern Historians and English Literature researchers who focus on popular politics, discourses of witchcraft, skepticism to magic in the 16th and 17th centuries.
+
 
 
 
@@ -54,6 +57,7 @@ The fields that compose the database reflect these concerns, but might also rais
 #### Related projects
 
 
+
 * [Collection of manuscripts of witch trials](https://www.nationalarchives.gov.uk/education/resources/early-modern-witch-trials/)
 * [German Dictionary of Biographies](https://www.deutsche-biographie.de/home)
 * [Digital Early Modern German Archives](https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0
@@ -67,7 +71,7 @@ This last one is the main inspiration for this project, because it is a collecti
 —------------
 
 
-*That, of course, is the idea of the project. Although it is far to be completed, and it takes some hours to fill in the values (because I have to collect information from lots of different sources and databases, in English, Latin, German, and French), I have to say it is a super exciting process to do. I feel like I want to stop everything else I'm doing and just keep filling each little gap. It's not only about the completion of the dataset itself; it's the collection process that turns me on. Not to mention the insights it's giving me! Anyway, I now modestly share with you the dataset as it is currently: [Skepticism to magic and witchcraft in print from the 16th to the 17th century](https://docs.google.com/spreadsheets/d/1ow_JvsTxkmBzErvFoufuzd2vUN0uG8t93seGaaSjBLM/edit?usp=sharing)*
+*That, of course, is the idea of the project. Although it is far from completed, and it takes some hours to fill in the values (because I have to collect information from lots of different sources and databases, in English, Latin, German, and French), I have to say it is a super exciting process to do. I feel like I want to stop everything else I'm doing and just keep filling each little gap. It's not only about the completion of the dataset itself; it's the collection process that turns me on. Not to mention the insights it's giving me! Anyway, I now modestly share with you the dataset as it is currently: [Skepticism to magic and witchcraft in print from the 16th to the 17th century](https://docs.google.com/spreadsheets/d/1ow_JvsTxkmBzErvFoufuzd2vUN0uG8t93seGaaSjBLM/edit?usp=sharing)*
 
 That's all for today!
 
