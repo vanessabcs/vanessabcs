@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Abstract For Final Project
-subtitle: Investigating an existent database
+subtitle: Introduction to "Skepticism to magic and witchcraft in print from the 16th to the 17th century"
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-## Abstract for final project: Skepticism to magic and witchcraft in print from the 16th to the 17th century
+### Abstract for final project: Skepticism to magic and witchcraft in print from the 16th to the 17th century
 
 The creation of platforms such as EEBO (Early English Books Online) and ESTC (English Short Title Catalogue) has yielded fruitful subsequent research on Early Modern publications, since it provides structured access to an impressive number of publications beyond museums’ and libraries’ walls. However, even huge databases such as these might seem limited when we try to answer specific research questions about specific themes of Early Modern prints such as witchcraft. In addition, although there is significant scholarship and data collections about the people accused of witchcraft, there still seems to exist still little research to gather the circulating discourses which foreshadowed and supported the trials, accusations, and executions of so-called “witches”. Thus, this paper presents the creation of a database on such discourses in print in Europe in the 16th and 17th centuries, that is, the time frame when witch persecution reached its highest stakes.
 
 
-### Metadata fields and description
+#### Metadata fields and description
+
 
 * *Short title:* a shortened version of the full title of the book, to avoid referring to very long titles as the ones that were common in Early Modern print.
 * *Full title:* Full title of the book, as it appears in the print’s front cover.
@@ -30,12 +31,14 @@ Year of first edition: the year of publication of the first edition of the book.
 * *Online manuscript:* link for the manuscript version of the first edition (or other editions available) online.
 
 
-### Audience for dataset
+
+#### Audience for dataset
 
 The dataset is primarily aimed at Early Modern Historians and English Literature researchers who focus on popular politics, discourses of witchcraft, skepticism to magic in the 16th and 17th centuries.
 
 
-### Questions for the dataset
+
+#### Questions for the dataset
 
 We analyze current skeptical arguments on witchcraft, oriented by the questions:
 
@@ -48,7 +51,8 @@ We analyze current skeptical arguments on witchcraft, oriented by the questions:
 The fields that compose the database reflect these concerns, but might also raise other insights and new inquiries.
 
 
-### Related projects
+#### Related projects
+
 
 * [Collection of manuscripts of witch trials](https://www.nationalarchives.gov.uk/education/resources/early-modern-witch-trials/)
 * [German Dictionary of Biographies](https://www.deutsche-biographie.de/home)
@@ -63,7 +67,7 @@ This last one is the main inspiration for this project, because it is a collecti
 —------------
 
 
-*That, of course, is the _idea_ of the project. Although it is far to be completed, and it takes some hours to fill in the values (because I have to collect information from lots of different sources and databases, in English, Latin, German, and French), I have to say it is a super exciting process to do. I feel like I want to stop everything else I'm doing and just keep filling each little gap. It's not only about the completion of the dataset itself; it's the collection process that turns me on. Not to mention the insights it's giving me! Anyway, I now modestly share with you the dataset as it is currently: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ow_JvsTxkmBzErvFoufuzd2vUN0uG8t93seGaaSjBLM/edit?usp=sharing)*
+*That, of course, is the idea of the project. Although it is far to be completed, and it takes some hours to fill in the values (because I have to collect information from lots of different sources and databases, in English, Latin, German, and French), I have to say it is a super exciting process to do. I feel like I want to stop everything else I'm doing and just keep filling each little gap. It's not only about the completion of the dataset itself; it's the collection process that turns me on. Not to mention the insights it's giving me! Anyway, I now modestly share with you the dataset as it is currently: [Skepticism to magic and witchcraft in print from the 16th to the 17th century](https://docs.google.com/spreadsheets/d/1ow_JvsTxkmBzErvFoufuzd2vUN0uG8t93seGaaSjBLM/edit?usp=sharing)*
 
 That's all for today!
 
