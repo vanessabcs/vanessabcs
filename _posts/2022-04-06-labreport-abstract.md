@@ -12,7 +12,7 @@ comments: true
 The creation of platforms such as EEBO (Early English Books Online) and ESTC (English Short Title Catalogue) has yielded fruitful subsequent research on Early Modern publications, since it provides structured access to an impressive number of publications beyond museums’ and libraries’ walls. However, even huge databases such as these might seem limited when we try to answer specific research questions about specific themes of Early Modern prints such as witchcraft. In addition, although there is significant scholarship and data collections about the people accused of witchcraft, there still seems to exist still little research to gather the circulating discourses which foreshadowed and supported the trials, accusations, and executions of so-called “witches”. Thus, this paper presents the creation of a database on such discourses in print in Europe in the 16th and 17th centuries, that is, the time frame when witch persecution reached its highest stakes.
 
 
-###Metadata fields and description
+### Metadata fields and description
 
 * *Short title:* a shortened version of the full title of the book, to avoid referring to very long titles as the ones that were common in Early Modern print.
 * *Full title:* Full title of the book, as it appears in the print’s front cover.
@@ -29,11 +29,11 @@ Year of first edition: the year of publication of the first edition of the book.
 * *Author’s religious affiliation:* the religious affiliation the author claims to have in the book or, the religious group the author might be attributed in biographical sources (such as the Oxford Dictionary of National Biography), or yet the religious affiliation that can be traced from the evidence provided in the text.
 * *Online manuscript:* link for the manuscript version of the first edition (or other editions available) online.
 
-###Audience for dataset
+### Audience for dataset
 
 The dataset is primarily aimed at Early Modern Historians and English Literature researchers who focus on popular politics, discourses of witchcraft, skepticism to magic in the 16th and 17th centuries.
 
-###Questions for the dataset
+### Questions for the dataset
 
 We analyze current skeptical arguments on witchcraft, oriented by the questions:
 
@@ -46,15 +46,15 @@ We analyze current skeptical arguments on witchcraft, oriented by the questions:
 The fields that compose the database reflect these concerns, but might also raise other insights and new inquiries.
 
 
-###Related projects
+### Related projects
 
-[Collection of manuscripts of witch trials](https://www.nationalarchives.gov.uk/education/resources/early-modern-witch-trials/)
-[German Dictionary of Biographies](https://www.deutsche-biographie.de/home)
-[Digital Early Modern German Archives](https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0
+* [Collection of manuscripts of witch trials](https://www.nationalarchives.gov.uk/education/resources/early-modern-witch-trials/)
+* [German Dictionary of Biographies](https://www.deutsche-biographie.de/home)
+* [Digital Early Modern German Archives](https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0
 http://estc.bl.uk/F/?func=file&file_name=login-bl-estc)
-[Spreadsheets of German Texts on Witchcraft](http://www.hexenprozesse-kurmainz.de/epoche/hexenprozesse/befuerworter-und-gegner-der-hexenverfolgung.html)  
+* [Spreadsheets of German Texts on Witchcraft](http://www.hexenprozesse-kurmainz.de/epoche/hexenprozesse/befuerworter-und-gegner-der-hexenverfolgung.html)  
 
-This last one is the main inspiration for this project, because it is a collection of texts on witchcraft written by German authors. My intention is to focus specifically on _skeptical_ texts on magic and witchcraft published in Europe (therefore, in many different languages). Besides, witchcraft has been often perceived as an unfit topic for academic investigation. On top of that, skeptical texts are not often the first to be mentioned and consulted when research actually happens on the topic, given that primary sources would be assumed to be texts that used to defend their point. This is why it is so important not only to know witch-hunt opponents arguments, but also how and why they did so, potentially unearthing other facts in political Early Modern discourses surrounding witchcraft.
+This last one is the main inspiration for this project, because it is a collection of texts on witchcraft written by German authors. My intention is to focus specifically on *skeptical* texts on magic and witchcraft published in Europe (therefore, in many different languages). Besides, witchcraft has been often perceived as an unfit topic for academic investigation. On top of that, skeptical texts are not often the first to be mentioned and consulted when research actually happens on the topic, given that primary sources would be assumed to be texts that used to defend their point. This is why it is so important not only to know witch-hunt opponents arguments, but also how and why they did so, potentially unearthing other facts in political Early Modern discourses surrounding witchcraft.
 
 
 
