@@ -13,6 +13,6 @@ The creation of platforms such as EEBO (Early English Books Online) and ESTC (En
 
 *That, of course is the idea of the project. Although it is far to be completed, and it takes some hours to fill in the values (because I have to collect information from lots of different sources and databases, in English, Latin, German, and French), I have to say it is a super exciting process to do. I feel like I want to stop everything else I'm doing and just keep filling each little gap. It's not only about the completion of the dataset itself; it's the collection process that turns me on. Not to mention the insights it's giving me! Anyway, I now modestly share with you the dataset as it is currently: [CLICK HERE AT OWN RISK; THIS IS AN UNFINISHED WORK!](https://docs.google.com/spreadsheets/d/1ow_JvsTxkmBzErvFoufuzd2vUN0uG8t93seGaaSjBLM/edit?usp=sharing)*
 
-That's all for today!
+That's all for today! :)
 
 ![Pikachu raises happy Togepi](/Users/vanssabs/Documents/GitHub/vanessabcs.github.io/assets/img/dsc12_pikachu.gif)
