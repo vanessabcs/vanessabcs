@@ -15,4 +15,4 @@ The creation of platforms such as EEBO (Early English Books Online) and ESTC (En
 
 That's all for today! :)
 
-![Pikachu raises happy Togepi](/https://vanessabcs.github.io/assets/img/dsc12_pikachu.gif)
+![Pikachu raises happy Togepi](https://vanessabcs.github.io/assets/img/dsc12_pikachu.gif)
