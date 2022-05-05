@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My dataset: a critical introduction
-subtitle: Magic, witchcraft, and sorcery in ESTC
+title: Magic, witchcraft, and sorcery in ESTC  
+subtitle: A critical introduction to my own dataset
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
